@@ -8,7 +8,7 @@ i really appreciate anyone who would like to help with the project and will free
 
 1. this seems obvious but never pull to the main or beta branch this is for the end-user and is controlled by myself and my team you are allowed to fork the dev branch
 
-2.  you may fork the repository
+2. you may fork the repository
 
 3. you must use dart on main platforms andtry to limit the use of platform specific language
 

@@ -39,7 +39,7 @@ Depracted - not being developed for any particular reason
 ## Features
 
 i am want to truely make this the universal platform to view achivement stuff so the app has plenty of features. there are core features which are the main priority for the app and once most or all of them are stable and working i will consider the app as complete and will then publish it to the many appstores so causual uses may easily find and access.
-additional features may not be created by me but its not a gurantee 
+additional features may not be created by me but its not a gurantee
 
 Core Features
 Account Linking: Connect multiple gaming accounts (PlayStation, Xbox, Steam, etc.) to track achievements across platforms.
